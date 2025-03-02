@@ -11,58 +11,28 @@ I have also completed a **SAP Technology Consultant** course from Coursera, enha
 ---
 
 ## 🛠 Skills
-- **Languages**: Python, JavaScript
+- **Languages**: Python
 - **Data Analysis**: Excel, SQL, Power BI
-- **Databases**: MongoDB, PostgreSQL
+- **Databases**: Mysql, PostgreSQL
 - **Web Development**: HTML, CSS, JavaScript
 - **Cloud**: SAP Analytics Cloud
-- **Tools & Technologies**: Git, GitHub, SAP ERP, SAP S/4HANA
-- **Aptitude Skills**: Quantitative Reasoning, Logical Reasoning, Verbal Reasoning
-
-## 🛠 Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.tableau.com/learn/articles/data-visualization" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Analysis-3178C6?style=for-the-badge&logo=data%20visualization&logoColor=white" alt="Data Analysis" />
-  </a>
-  <a href="https://www.tableau.com/learn/articles/data-visualization" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Visualization-F39C12?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization" />
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  </a>
-</p>
-
+- **Tools & Technologies**: Git, GitHub, SAP Analytics Cloud, Machine Learning
 ---
 
-## 🌐 Socials
+## 🌐 Social
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aditya-bhatti-160037257" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:adityabhattiadi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p>
+
 
 ---
 
